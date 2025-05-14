@@ -1,11 +1,12 @@
 Make a Class Library using Standard 2.1 framework
 
 Reference these dependencies in your project
-
+```
 UnityEngine.dll
 UnityEngine.CoreModule.dll
 Stat Curves.dll
-Assembly-CSharp.dll 
+Assembly-CSharp.dll
+```
 
 open assembly-csharp.dll in DNSPY
 Go into Game, Find Update(), edit method
